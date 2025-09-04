@@ -1,4 +1,4 @@
-# Medical AI Assistant
+# Medico - Medical AI Assistant
 
 A RAG-based medical chatbot built with LangChain, Pinecone, and Google Gemini AI. Provides evidence-based health information with a modern web interface.
 
